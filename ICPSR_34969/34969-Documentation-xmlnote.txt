@@ -1,0 +1,3 @@
+*ICPSR #34969, Survey of Midlife in Japan (MIDJA): Biomarker Project, 2009-2010
+
+The .xml file contained within this zip package is the .xml file provided by MIDUS; no changes have been made to this file during the curation of this study.

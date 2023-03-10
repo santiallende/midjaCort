@@ -1,0 +1,66 @@
+---
+title: "Data Wrangling"
+output: html_notebook
+---
+
+# Load Libraries
+```{r}
+library(tidyverse)
+library(nlme)
+options(scipen = 999)
+```
+
+# Load Daily Data
+```{r}
+midjaBio2009 <- read_table("/Users/Santi/Desktop/rProjects/midjaCort/ICPSR_34969/DS0001/34969-0001-Data.tsv",
+                       na = c("8", "98"))
+```
+
+# Number of Participants
+```{r}
+# total
+midjaBio2009 %>% select(MIDJA_IDS) %>% n_distinct()
+
+# provided cort
+midjaBio2009 %>% select(MIDJA_IDS, J2SSAL) %>% filter(J2SSAL == 1) %>% n_distinct()
+
+# provided cort on 3 consecutive days
+midjaBio2009 %>% select(MIDJA_IDS, J2CSCSEQ) %>% filter(J2CSCSEQ == 1) %>% n_distinct()
+```
+
+# Select cortisol variables of interest from daily data
+```{r}
+# what to adjust for and exclusion: https://pubmed.ncbi.nlm.nih.gov/27638184/
+
+# cardiovascular agents: J2MTC_40
+# allergy meds: J2ML
+# metabolic agents: J2MTC_358
+# antihyperlipidemic agents: J2MTCS_19
+# analgesics: J2MTCS_58
+# anxiolytics: J2MTCS_67
+# asthma: J2Q1JD
+# thyroid: J2Q1ND
+# BMI: J2CBMI
+# cancer: J2Q2
+
+midjaBio2009 <- midjaBio2009 %>%
+        select(id = MIDJA_IDS, providedConsecutiveCort = J2CSCSEQ,
+               age = J2CAGE, gender = J1SQ1, bmi = J2CBMI,
+               cardioAgents = J2MTC_40, allergyMeds = J2ML, 
+               metabolicAgents = J2MTC_358, antilipAgents = J2MTCS_19, 
+               analgesics = J2MTCS_58, anxiolytics = J2MTCS_67, 
+               everDxAsthma = J2Q1JD, everDxThyroid = J2Q1ND, 
+               everDxCancer = J2Q2, globalSleep = J2QSQ_GS,
+               chronicPainBinary = J2Q17, depression = J2QCESD,
+               anxiety = J2QTA_AX, anger = J2QTA_AG, dayOneAmTime = J2SD1MN,
+               dayOneMidTime = J2SD1MD, dayOnePmTime = J2SD1EV,
+               dayTwoAmTime = J2SD2MN, dayTwoMidTime = J2SD2MD, 
+               dayTwoPmTime = J2SD2EV, dayThreeAmTime = J2SD3MN,
+               dayThreeMidTime = J2SD3MD, dayThreePmTime = J2SD3EV,
+               dayOneAmValue = J2BSCD11, dayOneMidValue = J2BSCD12,
+               dayOnePmValue = J2BSCD13, dayTwoAmValue = J2BSCD21,
+               dayTwoMidValue = J2BSCD22, dayTwoPmValue = J2BSCD23,
+               dayThreeAmValue = J2BSCD31, dayThreeMidValue = J2BSCD32,
+               dayThreePmValue = J2BSCD33)
+```
+

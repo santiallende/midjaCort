@@ -1,0 +1,201 @@
+Bibliography
+Survey of Midlife in Japan (MIDJA): Biomarker Project, 2009-2010
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 34969. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Amaral, W.Z.; Coe, C.L., "Metabolic pathways linking glucoregulatory
+dysfunction and inflammatory physiology in ethnically distinct
+populations." Presented at the PsychoNeuroImmunology Research Society 22nd
+Annual Scientific Meeting, Psychoneuroimmunology Research Society, Seattle,
+WA, Jun 3-6, 2015. DOI: 10.1016/j.bbi.2015.06.099 1596
+
+2. Bertele, Nina; Karabatsiakis, Alexander; Buss, Claudia; Talmon, Anat,
+"How Routinely Assessed Biomarkers Can Be Utilized To Identify Individuals
+With A High Disease Burden: A Bioinformatics Approach Towards Predictive,
+Preventive And Personalised (3P) Medicine." Research Square, Preprint. Sep
+7, 2021.. DOI: 10.21203/rs.3.rs-813085/v1
+
+3. Bertele, Nina; Karabatsiakis, Alexander; Buss, Claudia; Talmon, Anat,
+"How biomarker patterns can be utilized to identify individuals with a high
+disease burden: A bioinformatics approach towards predictive, preventive,
+and personalized (3P) medicine." EPMA Journal. In press 2021,. DOI:
+10.1007/s13167-021-00255-0
+
+4. Boylan, J.M.; Coe, C.L.; Ryff, C.D., "Social inequalities, psychological
+risk and
+resilience, and health." In Ryff, Carol D.; Krueger, Robert F., The Oxford
+Handbook of Integrative Health Science. New York, NY: Oxford University
+Press,2018.
+
+5. Clobert, Magali; Sims, Tamara L.; Yoo, Jiah; Miyamoto, Yuri; Markus,
+Hazel R.; Karasawa, Mayumi; Levine, Cynthia S., "Feeling excited or taking
+a bath: Do distinct pathways underlie the positive affect-health link in
+the US and Japan?." Emotion. Mar 2020, 20, (2), 164 - 178. DOI:
+10.1037/emo0000531
+
+6. Coe, Christopher L.; Love, Gayle D.; Karasawa, Mayumi; Kawakami, Norito;
+Kitayama, Shinobu; Markus, Hazel R.; Tracy, Russell P.; Ryff, Carol D.,
+"Population differences in proinflammatory biology: Japanese have healthier
+profiles than Americans." Brain, Behavior, and Immunity. 2011, 25, (3), 494
+- 502. DOI: 10.1016/j.bbi.2010.11.013
+
+7. Coe, Christopher L.; Miyamoto, Yuri; Love, Gayle D.; Karasawa, Mayumi;
+Kawakami, Norito; Kitayama, Shinobu; Ryff, Carol D., "Cultural and life
+style practices associated with low inflammatory physiology in Japanese
+adults." Brain, Behavior, and Immunity. Nov 2020, 90, 385 - 392. DOI:
+10.1016/j.bbi.2020.08.008
+
+8. Coe, Christopher L.; Tsenkova, Vera; Love, Gayle D.; Kawakami, Norito;
+Karasawa, Mayumi; Kitayama, Shinobu; Markus, Hazel R.; Ryff, Carol D.,
+"Age-related trends in the prevalence of type 2 diabetes among Japanese and
+White and Black American adults." Archives of Epidemiology. 2020, 4,
+(142),. DOI: 10.29011/2577-2252.100042
+
+9. Costello-White, Reagan; Ryff, Carol D.; Coe, Christopher L., "Aging and
+low-grade inflammation reduce renal function in middle-aged and older
+adults in Japan and the USA." AGE. Aug 2015, 37, (4), Art. 75. DOI:
+10.1007/s11357-015-9808-7
+
+10. Gonzalez-Mule, Erik; Yuan, Zhenyu, "Social support at work carries
+weight: Relations between social support, employees' diurnal cortisol
+patterns, and body mass index." Journal of Applied Psychology. In press
+2022,. DOI: 10.1037/apl0000990
+
+11. Hartanto, Andree; Yee-Man Lau, Ivy; Yong, Jose C., "Culture moderates
+the link between perceived obligation and biological health risk: Evidence
+of culturally distinct pathways for positive health outcomes." Social
+Science and Medicine. Jan 2020, 244, 112644. DOI:
+10.1016/j.socscimed.2019.112644 P01-AG020166; 5R37AG027343
+
+12. Hayakawa, K.; Watabe, M.; Horikawa, H.; Sato-Kasai, M.; Shimokawa, N.;
+Nakao, T.; Kato, T.A., "Low-density lipoprotein cholesterol is a possible
+blood biomarker of schizoid personality traits among females." Journal of
+Personalized Medicine. 2022, 12, (131),. DOI: 10.3390/jpm12020131
+
+13. Jones, Dusti R.; Graham-Engeland, Jennifer E., "Positive affect and
+peripheral inflammatory markers among adults: A narrative review."
+Psychoneuroendocrinology. Jan 2021, 123, (104892),. DOI:
+10.1016/j.psyneuen.2020.104892
+
+14. Kaveladze, Benjamin; Diamond Altman, Allison; Niederhausen, Meike;
+Loftis, Jennifer M.; Teo, Alan R., "Social relationship quality, depression
+and inflammation: A cross-cultural longitudinal study in the United States
+and Tokyo, Japan." International Journal of Social Psychiatry. In press
+2020,. DOI: 10.1177/0020764020981604
+
+15. Kitayama, S.; Park, J.; Boylan, J.M.; Miyamoto, Y.; Levine, C.S.;
+Markus, H.R.; Karasawa, Mayumi; Coe, Christopher L.; Kawakami, Norito;
+Love, Gayle D.; Ryff, C.D., "Expression of anger and ill health in two
+cultures: An examination of inflammation and cardiovascular risk.."
+Psychological Science. Feb 2015, 26, (2), 211 - 220. DOI:
+10.1177/0956797614561268
+
+16. Kitayama, S.; Park, J.; Miyamoto, Y.; Date, H.; Boylan, J.M.; Markus,
+H.R.; Karasawa, M.; Kawakami, N.; Coe, C.L.; Love, G.D.; Ryff, C.D.,
+"Behavioral adjustment moderates the link between neuroticism and
+biological health risk: A U.S.-Japan comparison study." Personality and
+Social Psychology Bulletin. 2018, 44, (6), 809 - 822. DOI:
+10.1177/0146167217748603
+
+17. Kitayama, Shinobu; Park, Jiyoung, "Emotion and biological health: The
+socio-cultural moderation." Current Opinion in Psychology. Oct 2017, 17, 99
+- 105. DOI: 10.1016/j.copsyc.2017.06.016 5R37AG027343
+
+18. Kitayama, Shinobu; Park, Jiyoung, "Is conscientiousness always
+associated with better health? A U.S.-Japan cross-cultural examination of
+biological health risk." Personality and Social Psychology Bulletin. Mar
+2021, 47, (3), 486 - 498. DOI: 10.1177/0146167220929824
+
+19. McNally, James W.; Lavender, Kathryn M.; Levenstein, Margaret C., "Best
+Practices for Measuring the Social, Behavioral, and Economic Impact of
+Epidemics." ICPSR Working Paper. 2, Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research (ICPSR), Apr 2020.
+Abstract: https://hdl.handle.net/2027.42/154682
+
+20. Miyamoto, Y.; Boylan, J.M.; Coe, C.L.; Curhan, K.B.; Levine, C.S.;
+Markus, H.R.; Park, J.; Kitayama, S.; Kawakami, N.; Karasawa, M.; Love,
+G.D.; Ryff, C.D., "Negative emotions predict elevated interleukin-6 in the
+United States but not in Japan." Brain, Behavior, and Immunity. Nov 2013,
+34, 79 - 85. DOI: 10.1016/j.bbi.2013.07.173 R01 AG027343
+Abstract: https://hdl.handle.net/2027.42/154682
+
+21. Park, J.; Kitayama, S., "Anger expression and health: The cultural
+moderation
+hypothesis." In Ryff, Carol D.; Krueger, Robert F., The Oxford Handbook of
+Integrative Health Science. 379 - 394, New York, NY: Oxford University
+Press,2018.
+Abstract: https://hdl.handle.net/2027.42/154682
+
+22. Park, Jiyoung; Kitayama, Shinobu; Miyamoto, Yuri; Coe, Christopher L.,
+"Feeling bad is not always unhealthy: Culture moderates the link between
+negative affect and diurnal cortisol profiles." Emotion. 2020, 20, (5), 721
+- 733. DOI: 10.1037/emo0000605 5R37AG027343
+Abstract: https://hdl.handle.net/2027.42/154682
+
+23. Ryff, C.D.; Miyamoto, Y.; Boylan, J.M.; Coe, C.L.; Karasawa, M.;
+Kawakami, N.; Kan, C.; Love, G.D.; Levine, C.; Markus, H.R.; Park, J.;
+Kitayama, S., "Culture, inequality, and health:  Evidence from the MIDUS
+and MIDJA comparison." Culture and Brain. in press 2015,. DOI:
+10.1007/s40167-015-0025-0
+Abstract: https://hdl.handle.net/2027.42/154682
+
+24. Ryff, Carol D.; Krueger, Robert F., The Oxford Handbook of Integrative
+Health Science. New York, NY: Oxford University Press, 2018. DOI:
+10.1093/oxfordhb/9780190676384.001.0001
+Abstract: https://hdl.handle.net/2027.42/154682
+
+25. Seymour, Megan J., "Well-Being and Health: Evidence That the Health
+Benefits of Well-Being Are Contingent on Cultural and Personal Factors."
+Dissertation, University of Michigan, 2019.
+Full text PDF: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/153374/mjseym_1.pdf?sequence=1
+
+26. Stephan, Yannick; Sutin, Angelina R.; Luchetti, Martina; Canada, Brice;
+Terracciano, Antonio, "Personality and HbA1c: Findings from six samples."
+Psychoneuroendocrinology. Oct 2020, 120, (104782),. DOI:
+10.1016/j.psyneuen.2020.104782
+Full text PDF: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/153374/mjseym_1.pdf?sequence=1
+
+27. Straka, Kelci; Tran, Mai-Lan; Millwood, Summer; Swanson, James;
+Kuhlman, Kate Ryan, "Aging as a context for the role of inflammation in
+depressive symptoms." Frontiers in Psychiatry. 2021, 11, (605347), 1607.
+DOI: 10.3389/fpsyt.2020.605347
+Full text PDF: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/153374/mjseym_1.pdf?sequence=1
+
+28. Sutin, Angelina R.; Stephan, Yannick; Wang, Lei; Gao, Shoumin; Wang,
+Ping; Terracciano, Antonio, "Personality traits and body mass index in
+Asian populations." Journal of Research in Personality. in press 2015,.
+DOI: 10.1016/j.jrp.2015.07.006
+Full text PDF: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/153374/mjseym_1.pdf?sequence=1
+
+29. Vanderkruik, Rachel; Whisman, Mark A., "A cross-cultural examination of
+pleasant events and depressive symptoms." Journal of Clinical Psychology.
+In press 2021,. DOI: 10.1002/jclp.23111
+Full text PDF: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/153374/mjseym_1.pdf?sequence=1
+
+30. Yong, Jose C.; Hartanto, Andree; Tan, Jacinth J.X., "Subjective social
+status and inflammation: The role of culture and anger control." Health
+Psychology. 2020, 40, (1), 62 - 70. DOI: 10.1037/hea0001029
+Full text PDF: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/153374/mjseym_1.pdf?sequence=1
+
+31. Yoo, J.; Miyamoto, Y., "Culture, emotion, and health." In Ryff, Carol
+D.; Krueger, Robert F., The Oxford Handbook of Integrative Health Science.
+367 - 378, New York, NY: Oxford University Press,2018.
+Full text PDF: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/153374/mjseym_1.pdf?sequence=1
+
+32. Yoo, Jiah; Miyamoto, Yuri; Rigotti, Attilio; Ryff, Carol D., "Linking
+positive affect to blood lipids: A cultural perspective." Psychological
+Science. in press 2017,. DOI: 10.1177/0956797617713309
+Full text PDF: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/153374/mjseym_1.pdf?sequence=1
+
+33. Yoo, Jiah; Miyamoto, Yuri; Ryff, Carol D., "Positive affect, social
+connectedness, and healthy biomarkers in Japan and the U.S.." Emotion. Dec
+2016, 16, (8), 1137 - 1146. DOI: 10.1037/emo0000200
+Full text PDF: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/153374/mjseym_1.pdf?sequence=1

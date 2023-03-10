@@ -1,0 +1,130 @@
+File Manifest for ICPSR 34969
+
+Markus, Hazel Rose, Christopher L. Coe, Carol D. Ryff, Mayumi Karasawa,
+Norito Kawakami, and Shinobu Kitayama. Survey of Midlife in Japan (MIDJA):
+Biomarker Project, 2009-2010. ICPSR34969-v4. Ann Arbor, MI: Inter-
+university Consortium for Political and Social Research [distributor],
+2020-07-07. http://doi.org/10.3886/ICPSR34969.v4
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34969-descriptioncitation.pdf       -       -         -       2020-07-07  -
+
+    34969-related_literature.txt        -       -         -       daily       -
+
+    34969-manifest.txt                  -       -         -       daily       -
+
+    34969-Documentation-acknowledge.pdf -       -         -       2019-03-28  87bfc746f841787121533f1264f09e83
+
+    34969-Documentation-clinic_visit.pdf -       -         -       2019-03-28  963d59d8023f872353946817cbbd6347
+
+    34969-Documentation-datafiles_notes.pdf -       -         -       2019-03-28  77cfb09e7164c9e697921d64ea319291
+
+    34969-Documentation-merging.pdf     -       -         -       2020-07-07  37bf4f9a35de0d61ed95a364dfa36eec
+
+    34969-Documentation-midus_midja_medication.pdf -       -         -       2020-07-07  23283024dcb9c7d755a5fb70e8b06f60
+
+    34969-Documentation-naming_coding.pdf -       -         -       2020-07-07  3598c8df03ea402b73910824f8c00d87
+
+    34969-Documentation-readme.pdf      -       -         -       2020-07-07  a1af85f29cd4d839836fe3e210a5f946
+
+    34969-Documentation-roadmap.pdf     -       -         -       2020-07-07  226114b62a5daa571d065748d0ca70d5
+
+    34969-Documentation-scales_composite.pdf -       -         -       2020-07-07  45a83f3e7ae3d0a8b04c0fb4f30897b1
+
+    34969-Documentation-summary.pdf     -       -         -       2020-07-07  109a187a20f79c33332d2ebd913c635c
+
+    34969-Documentation-xmlnote.txt     -       -         -       2020-07-07  ea1f5bf25d48112bcad9a5668929f89f
+
+    34969-Questionnaire-english.pdf     -       -         -       2020-07-07  4958d7be2627c9d89ec82c13e1184d07
+
+    34969-Questionnaire-japanese.pdf    -       -         -       2020-07-07  1b9ebeff4626503e70c81f62a18d25cc
+
+    34969-Zipped_package-ddi_xml.zip    -       -         -       2020-07-07  6ad7dc74075c945af13a9eef7df581e7
+
+
+DS0001 Aggregate Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34969-0001-Codebook-DDI.pdf         -       -         -       2020-07-07  b82f2e48e476688b6907acd568f2770c
+
+    34969-0001-Codebook.pdf             -       -         -       2020-07-07  228bb8276d2b8805bb8955b639532bac
+
+    34969-0001-Data.dta                 -       382       946     2020-07-07  69ba26fb037486768f5a9c9fe5fb33f6
+
+    34969-0001-Data.rda                 -       382       946     2020-07-07  7d74f4bc6bec858956a65d489857a9d7
+
+    34969-0001-Data.sav                 -       382       946     2020-07-07  da062f04b433f19f878392eea283ccda
+
+    34969-0001-Data.stc                 -       382       946     2020-07-07  41f6da6473d4202168743bbdbb0e2a04
+
+    34969-0001-Data.tsv                 -       382       946     2020-07-07  11f2cd7e9092106c91753c438650e0f4
+
+    34969-0001-Data.txt                 2606    382       946     2020-07-07  f90a74382763571cadc7b17471a6ca4e
+
+    34969-0001-Setup.dct                -       -         -       2020-07-07  9c5da6a71449baf4a235a23cfc2ae523
+
+    34969-0001-Setup.do                 -       -         -       2020-07-07  b7ad1b5c7d45518a8d7c57b8d2031330
+
+    34969-0001-Setup.sas                -       -         -       2020-07-07  48b02b8ab6a0d68fca337e9eb73e2162
+
+    34969-0001-Setup.sps                -       -         -       2020-07-07  df1cbed9107a47a0c3f355ccb0b4c13f
+
+    34969-0001-Supplemental_syntax.do   -       -         -       2020-07-07  24a4eb84215584145c37bb0f7e2daa49
+
+    34969-0001-Supplemental_syntax.sas  -       -         -       2020-07-07  bdffee335fa6b44829ccf1ba06876e24
+
+
+DS0002 Stacked Medication Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34969-0002-Codebook-DDI.pdf         -       -         -       2020-07-07  bb3942b4129e0fc752ea75235fe71d15
+
+    34969-0002-Codebook.pdf             -       -         -       2020-07-07  1519d68afaacc86799153e39b3e0d143
+
+    34969-0002-Data.dta                 -       793       68      2020-07-07  b57e1f564b466071188aff02a1d6b744
+
+    34969-0002-Data.rda                 -       793       68      2020-07-07  9920e50ba43e8f57346b889dc62584cb
+
+    34969-0002-Data.sav                 -       793       68      2020-07-07  c3fc8a8b91baa07458d070df452704c3
+
+    34969-0002-Data.stc                 -       793       68      2020-07-07  71bf5d65c9947f2c7393ffeb7bcc4a95
+
+    34969-0002-Data.tsv                 -       793       68      2020-07-07  65b0c07281217f40f31b564766eff592
+
+    34969-0002-Data.txt                 204     793       68      2020-07-07  870d09ee47d02f4bd88d9f26855a93e2
+
+    34969-0002-Setup.dct                -       -         -       2020-07-07  e697bd069b1b903c05f2e313c34a822e
+
+    34969-0002-Setup.do                 -       -         -       2020-07-07  a55f322bf4346285a906fa6c3990a695
+
+    34969-0002-Setup.sas                -       -         -       2020-07-07  5582d22eeb4ff3793e7097f67285433a
+
+    34969-0002-Setup.sps                -       -         -       2020-07-07  4e7ff83dba0a4e3017e34024277e6308
+
+    34969-0002-Supplemental_syntax.do   -       -         -       2020-07-07  04ee1ec59d3a30be11dbd5d86ee4d41a
+
+    34969-0002-Supplemental_syntax.sas  -       -         -       2020-07-07  d3ff7be018c892e10f3394fc0b7b6f79
+
+
+Version History
+
+2020-07-07 The DS1 Aggregate Data was updated to correct value labels in
+the variable J1SQ1.  2019-03-28 <p>This update includes an expanded version
+of DS1 Aggregate Data along with several documentation changes. Question
+text and online analysis tools have been added to DS1. </p> <p>DS2 Stacked
+Medication Data has been updated to improve usability and add question
+text. No changes to the data in DS2 have occurred.</p>  2018-03-20 A second
+dataset was added to the study (DS2: Stacked Medication file). And existing
+data files and documents were re-submitted to reflect the new change in the
+Study title.  2014-07-03 This is a subsample of the MIDJA Survey.
